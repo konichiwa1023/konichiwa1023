@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @konichiwa1023
+- 👋 Hi, I’m Carlos Jude Maminta
 - 👀 I’m interested in Programming and Low Code tools 
 - 🌱 I’m currently learning Different programming languages 
 - 💞️ I’m looking to collaborate on projects 
